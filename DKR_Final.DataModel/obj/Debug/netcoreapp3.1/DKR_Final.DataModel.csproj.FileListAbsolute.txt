@@ -1,0 +1,9 @@
+C:\Users\Mahant\source\repos\DKR_Final\DKR_Final.DataModel\bin\Debug\netcoreapp3.1\DKR_Final.DataModel.deps.json
+C:\Users\Mahant\source\repos\DKR_Final\DKR_Final.DataModel\bin\Debug\netcoreapp3.1\DKR_Final.DataModel.dll
+C:\Users\Mahant\source\repos\DKR_Final\DKR_Final.DataModel\bin\Debug\netcoreapp3.1\DKR_Final.DataModel.pdb
+C:\Users\Mahant\source\repos\DKR_Final\DKR_Final.DataModel\obj\Debug\netcoreapp3.1\DKR_Final.DataModel.csproj.AssemblyReference.cache
+C:\Users\Mahant\source\repos\DKR_Final\DKR_Final.DataModel\obj\Debug\netcoreapp3.1\DKR_Final.DataModel.AssemblyInfoInputs.cache
+C:\Users\Mahant\source\repos\DKR_Final\DKR_Final.DataModel\obj\Debug\netcoreapp3.1\DKR_Final.DataModel.AssemblyInfo.cs
+C:\Users\Mahant\source\repos\DKR_Final\DKR_Final.DataModel\obj\Debug\netcoreapp3.1\DKR_Final.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Mahant\source\repos\DKR_Final\DKR_Final.DataModel\obj\Debug\netcoreapp3.1\DKR_Final.DataModel.dll
+C:\Users\Mahant\source\repos\DKR_Final\DKR_Final.DataModel\obj\Debug\netcoreapp3.1\DKR_Final.DataModel.pdb
